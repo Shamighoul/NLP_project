@@ -1,0 +1,8 @@
+*.lock
+venv
+gpt2-ner2directions*
+tokenized_data
+*.txt
+*.json
+*.zip
+*.csv
